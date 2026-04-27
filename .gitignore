@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+.DS_Store
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+venv/
+.env
+
+# Model weights (too large for GitHub; see checkpoints/README.md)
+*.pth
+
+# Generated figures and batch outputs (re-run scripts to reproduce)
+results/*.png
+results/**/*.png
+convit/*.png
