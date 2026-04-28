@@ -6,6 +6,14 @@ This repository is a **clean, GitHub-sized** layout: code + small sample images.
 
 Your original experiments under `PTQ4ViT/` and `Quantum Abdul*` on disk are **unchanged**; this folder is the copy meant for publishing.
 
+## Full Artifacts (Google Drive)
+
+Full PTQ artifacts (all checkpoints, full experiment outputs, and supporting files) are stored in Google Drive:
+
+- https://drive.google.com/drive/folders/1mN__31JBIWaAt1s9D7qNTqRfUZDkE4kC?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
+
+Use this repo for code and reproducible scripts, and use the Drive folder for large binary assets.
+
 ## Layout
 
 | Path | Purpose |

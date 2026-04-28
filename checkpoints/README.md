@@ -9,6 +9,10 @@ Place trained weights here so the default CLI paths work:
 
 `.pth` files are **gitignored** (often ~900 MB each). Upload them to [Hugging Face Hub](https://huggingface.co/), Google Drive, or an internal file share, then download into this folder.
 
+Primary project Drive folder (all PTQ work and checkpoints):
+
+- https://drive.google.com/drive/folders/1mN__31JBIWaAt1s9D7qNTqRfUZDkE4kC?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
+
 After copying weights, typical first commands from the repo root:
 
 ```bash
